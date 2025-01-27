@@ -7,4 +7,5 @@ Made more as a gag app, audience size = 1 (myself)
 
 Used chatgpt to code this up with prompts powered by OpenAI.
 
-![](initial.gif)
+## demo
+![](demos/initial.gif)
